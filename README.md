@@ -23,3 +23,9 @@ Unordered Lists:
 Order Lists:
 1. First Item
 2. Second Item
+
+This is a link
+[Google's Website](https://www.google.com)
+![Github Logo](https://github.githubassets.com/images/modules/logo_page/Github-Mark.png)
+
+![Dual Tankbuster](images/SAVE%20THEM.jfif)
